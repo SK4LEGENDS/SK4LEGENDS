@@ -39,10 +39,9 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 🏅 Certifications / Badges
 
-![UiPath Certified](https://img.shields.io/badge/UiPath-Certified-FF512F?logo=uipath&logoColor=white)
+![UiPath Associate Developer Certified](https://img.shields.io/badge/UiPath-Certified-FF512F?logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-Certified-0066FF?logo=power-automate&logoColor=white)
 ![MongoDB Basics](https://img.shields.io/badge/MongoDB-Basics-47A248?logo=mongodb&logoColor=white)
-![VS Code Ninja](https://img.shields.io/badge/VS%20Code-Pro-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
