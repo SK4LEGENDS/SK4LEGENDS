@@ -48,9 +48,9 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 ### 🎵 Vibes While Coding
 
-> “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
+[![Coding Playlist](https://i.imgur.com/xyz1234.png)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
 
-[![Spotify Vibes](https://img.shields.io/badge/Spotify-Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+> “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
 
 
 
