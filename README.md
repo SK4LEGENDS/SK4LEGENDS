@@ -33,7 +33,6 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 ![UiPath](https://img.shields.io/badge/-UiPath-FF512F?logo=uipath&logoColor=fff)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=power-automate&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
@@ -42,17 +41,22 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 - 📸 Portfolio: [The-K-Folio](https://sk4legends.github.io/The_K_Folio)
 - 💼 LinkedIn: [Kailash Selvarajan](www.linkedin.com/in/kailashselvarajan)
-- 📧 Email: [Kailash Selvarajan](mailto:kailashsekvarajan@gmail.com)
-- 📷 Instagram: [SK4LEGENDS](](https://www.instagram.com/sk4.legends))
+- 📧 Email: [Kailashselvarajan](mailto:kailashsekvarajan@gmail.com)
+- 📷 Instagram: [SK4LEGENDS](https://www.instagram.com/sk4.legends)
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailashselvarajan&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashselvarajan&theme=radical" height="180px"/>
+  <a href="https://github.com/kailashselvarajan">
+    <img src="https://github-readme-stats.vercel.app/api?username=kailashselvarajan&show_icons=true&theme=radical" alt="Kailash's GitHub stats" width="45%"/>
+  </a>
+  <a href="https://github.com/kailashselvarajan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashselvarajan&theme=radical" alt="Kailash's GitHub streak" width="45%"/>
+  </a>
 </p>
+
 
 ---
 
@@ -60,7 +64,8 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 > “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
 
-[![Spotify](https://open.spotify.com/playlist/your-playlist-link](https://open.spotify.com/embed/playlist/5iw2H1l1BcDhrvBNtresxc?utm_source=generator)
+[![Spotify Vibes](https://i.imgur.com/0XkP8vC.png)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+
 
 ---
 
