@@ -4,7 +4,7 @@
 <h3 align="center">aka the automation developer | tech explorer | photographer of calm 🌿📸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=65">
 </p>
 
 ---
@@ -48,9 +48,10 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 ### 🎵 Vibes While Coding
 
-[![Coding Playlist](https://i.imgur.com/xyz1234.png)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
-
 > “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
+
+[![Spotify Vibes](https://img.shields.io/badge/Spotify-Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+
 
 
 
