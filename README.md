@@ -4,7 +4,7 @@
 <h3 align="center">aka the automation developer | tech explorer | photographer of calm 🌿📸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=65">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=65&&color=FF6700">
 </p>
 
 ---
