@@ -46,25 +46,12 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/kailashselvarajan">
-    <img src="https://github-readme-stats.vercel.app/api?username=kailashselvarajan&show_icons=true&theme=radical" alt="Kailash's GitHub stats" width="45%"/>
-  </a>
-  <a href="https://github.com/kailashselvarajan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashselvarajan&theme=radical" alt="Kailash's GitHub streak" width="45%"/>
-  </a>
-</p>
-
-
----
-
 ### 🎵 Vibes While Coding
 
 > “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
 
-[![Spotify Vibes](https://i.imgur.com/0XkP8vC.png)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+[![Spotify Vibes](https://img.shields.io/badge/Spotify-Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+
 
 
 ---
