@@ -18,29 +18,25 @@ From building intelligent RPA solutions and full-stack applications to exploring
 
 ## 📌 Featured Projects
 
-- 👁️ **[Smart_Eye](https://github.com/sk4legends/Smart_Eye)**  
-  ![Status](https://img.shields.io/badge/Status-BETA-orange)  
+- 👁️ **[Smart_Eye](https://github.com/sk4legends/Smart_Eye)** `BETA`  
   AI-powered Smart Eye Care system with dual-model ensemble diagnostics, clinical dashboards, and a **RAG-powered medical assistant**.  
   **Tech:** React · TypeScript · Python · Deep Learning · Next.js · Medical Imaging
 
 ---
 
-- 🚚 **[SmartFleet-Automation](https://github.com/sk4legends/SmartFleet-Automation)**  
-  ![Status](https://img.shields.io/badge/Status-FINISHED-brightgreen)  
+- 🚚 **[SmartFleet-Automation](https://github.com/sk4legends/SmartFleet-Automation)** `FINISHED`  
   Intelligent **UiPath automation agent** that assigns drivers and vehicles based on route, traffic, weather, and database insights for real-time fleet optimization.  
   **Tech:** UiPath · Automation · Databases · Decision Logic
 
 ---
 
-- 🔁 **[H.Y.D.R.A – Hybrid Data Router & Adapter](https://github.com/sk4legends/H.Y.D.R.A-Hybrid-Data-Router-Adapter)**  
-  ![Status](https://img.shields.io/badge/Status-FINISHED-brightgreen)  
+- 🔁 **[H.Y.D.R.A – Hybrid Data Router & Adapter](https://github.com/sk4legends/H.Y.D.R.A-Hybrid-Data-Router-Adapter)** `FINISHED`  
   Bi-directional data migration system between **Excel and Supabase**, powered by UiPath automation workflows with seamless structured data synchronization.  
   **Tech:** UiPath · Supabase · Data Migration · Automation
 
 ---
 
-- 🧠 **[AURA – Advanced User Research AI](https://github.com/sk4legends/AURA-Advanced-User-Research-AI)**  
-  ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow)  
+- 🧠 **[AURA – Advanced User Research AI](https://github.com/sk4legends/AURA-Advanced-User-Research-AI)** `IN PROGRESS`  
   Privacy-first **RAG platform** that converts documents and URLs into a secure, searchable knowledge base using **local LLMs**, citations, and professional-grade visualizations.  
   **Tech:** RAG · Local LLM · Privacy-First AI · Knowledge Systems
 
