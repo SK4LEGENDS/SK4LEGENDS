@@ -62,38 +62,56 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 ![IEEE YESIST Finalist](https://img.shields.io/badge/IEEE-YESIST%20Finalist-00629B?logo=ieee&logoColor=white)
 
 ---
-
-### 📚 Blog Posts / Journal Highlights
-
 ## 📚 Blog Posts / Journal Highlights
 
-- 🚀 **Igniting Young Minds with RPA**  
-  Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in automation and future-ready skills.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
+---
 
-- 🏅 **Volunteering, Leadership & Giving Back**  
-  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
+### 🚀 Igniting Young Minds with RPA
+> **Role:** Outreach Lead | Automation Evangelist  
+Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in future-ready skills.  
+🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
 
-- 🏆 **Hack-A-Bot 2024: Innovation Under Pressure**  
-  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation — an intense journey of ideation, execution, and collaboration powered by UiPath.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
+---
 
-- 💼 **First Industry Exposure — Virtusa Internship Journey**  
-  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa, embracing the values of passion, innovation, leadership, and respect while stepping into the professional world.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
+### 🏅 Volunteering, Leadership & Giving Back
+> **Recognition:** Volunteer Certificate from Chairman  
+Recognized for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
+🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
 
-- 🎓 **Student Developers Summit 2025 — From Planning to Legacy**  
-  Core team leadership and large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
+---
 
-- ⚡ **Cybertrix 2K25: Operations at Scale**  
-  Served as **Operations Director** for Cybertrix 2K25, achieving a record-breaking **1000+ participants** for the first time in the institute — a true test of leadership, logistics, and teamwork.  
-  🔗 https://www.linkedin.com/posts/kaviraj-r-922895342_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
+### 🏆 Hack-A-Bot 2024 — Innovation Under Pressure
+> **Achievement:** 🥈 2nd Place  
+Solved real-world challenges using automation in a high-pressure hackathon environment powered by UiPath — ideation, execution, and collaboration at scale.  
+🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
 
-- 🌍 **Planetary Resilience — UK–India Collaborative Workshop**  
-  Volunteered as a Student Organizer (Secretary) for an international workshop on sustainability, energy transition, and resilience, bridging technology, research, and global collaboration.  
-  🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
+---
+
+### 💼 First Industry Exposure — Virtusa Internship Journey
+> **Role:** Associate Intern  
+A milestone marking my entry into the professional world at Virtusa, embracing passion, innovation, leadership, and respect while learning industry best practices.  
+🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
+
+---
+
+### 🎓 Student Developers Summit 2025 — From Planning to Legacy
+> **Role:** Core Team | Event Leadership  
+Led large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
+🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
+
+---
+
+### ⚡ Cybertrix 2K25 — Operations at Scale
+> **Role:** Operations Director  
+Achieved a record-breaking **1000+ participants** for the first time in the institute — leadership, logistics, and execution under pressure.  
+🔗 https://www.linkedin.com/posts/kaviraj-r-922895342_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
+
+---
+
+### 🌍 Planetary Resilience — UK–India Collaborative Workshop
+> **Role:** Student Organizer (Secretary)  
+Supported an international collaboration on sustainability, energy transition, and resilience — bridging technology, research, and global impact.  
+🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
 
 ---
 
