@@ -1,146 +1,101 @@
-<!-- ===============================
- GitHub Profile README
- Kailash Selvarajan
- =============================== -->
+<!-- GitHub Profile README for Kailash Selvarajan -->
 
-<h1 align="center">👾 Hey, I'm Kailash Selvarajan</h1>
-
-<h3 align="center">
-Automation Developer • Tech Explorer • Calm-Seeker with a Camera 🌿📸
-</h3>
+<h1 align="center">Hey there! 👋 I'm Kailash</h1>
+<h3 align="center">aka the automation developer | tech explorer | photographer of calm 🌿📸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Explorer;Nature+Photographer;Retro+Game+Lover&center=true&width=600&height=65&color=00FF9C">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00FF9C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vibe-Retro%2090's%20Coder-FF6F00?style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=65&&color=FF6700">
 </p>
 
 ---
 
-## 🌌 Welcome, Player One
+### ✨ Welcome to My GitHub Universe!
 
-Welcome to my **GitHub universe** — a blend of  
-⚙️ *automation*,  
-🧠 *problem-solving*,  
-🎨 *creative engineering*,  
-and 🌿 *quiet moments captured through a Nikon lens*.
-
-I believe **automation is an art form** — when done right, it feels like magic.
+Welcome to my little corner of the digital world! Whether it's automating tedious tasks, building full-stack web apps, or capturing the serenity of nature through a Nikon lens, I bring heart and precision to everything I do.
 
 ---
 
-## 🕹️ Current Quests (Active Projects)
-
-- 🔄 **ChemWisper Bot**  
-  *NLP-powered chemical explainer using UiPath + Gemini AI*
-
-- 🌍 **Multilingual Knowledge Base Generator**  
-  *Scrape → Translate → Upload → Global-ready documentation*
-
-- 🖼️ **OASIS.graphy**  
-  *A calm, minimalist nature photography portfolio*
+### 👨‍💻 Current Projects & Work
+- 🔄 **ChemWisper Bot** – Natural Language powered chemical explainer using UiPath + Gemini AI  
+- 🌐 **Multilingual Knowledge Base Generator** – Scraping + Translation + Uploading for global-ready documentation  
+- 🖼️ **OASIS.graphy** – My personal photography portfolio featuring nature in its most peaceful forms
 
 ---
 
-## ⚔️ Tech Arsenal
+### 🚀 Tech Stack
 
-### 🧩 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6)
+#### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 
-### 🛠️ Automation & Tools
-![UiPath](https://img.shields.io/badge/UiPath-000?logo=uipath&logoColor=FF512F)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-000?logo=power-automate&logoColor=0066FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visual-studio-code&logoColor=007ACC)
-
----
-
-## 🏆 Achievements Unlocked
-
-![UiPath Certified](https://img.shields.io/badge/UiPath-Associate%20Certified-FF512F)
-![Power Automate Certified](https://img.shields.io/badge/Power%20Automate-Certified-0066FF)
-![MongoDB Basics](https://img.shields.io/badge/MongoDB-Basics-47A248)
+#### ⚙️ Tools & Platforms
+![UiPath](https://img.shields.io/badge/-UiPath-FF512F?logo=uipath&logoColor=fff)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=power-automate&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
 
-## 📌 Featured Builds
+🏅 Certifications / Badges
 
-🧠 **ChemWisper Bot**  
-> Explains chemical names using AI, auto-documents results into Word — UiPath powered.
-
-🌍 **Multilingual KB Generator**  
-> End-to-end automation for scraping, translating, and publishing help documentation.
-
-🌿 **OASIS.graphy**  
-> A peaceful nature photography experience with parallax visuals and calm tones.
-
-🧪 **S.P.E.A.R. (Spill Emergency Aerial Response)**  
-> Drone swarm system for oil spill detection and cleanup using coordinated AI behavior.
+![UiPath Associate Developer Certified](https://img.shields.io/badge/UiPath-Certified-FF512F?logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Certified-0066FF?logo=power-automate&logoColor=white)
+![MongoDB Basics](https://img.shields.io/badge/MongoDB-Basics-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-## 🕹️ Contribution Mode: CLASSIC 90’s GAME EDITION
-
-🎮 **Think of my GitHub contributions like a retro game map:**
-
-- 🟩 **Green Tiles** → XP earned  
-- ⭐ **Streaks** → Combo multipliers  
-- 👾 **Commits** → Enemies defeated  
-- 🏁 **Milestones** → Boss levels cleared  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sk4legends&show_icons=true&theme=tokyonight&border_radius=12">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk4legends&theme=tokyonight&border_radius=12">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sk4legends&theme=matrix&no-frame=true&row=1">
-</p>
-
----
-
-## 📚 Logs & Journals
+### 📚 Blog Posts / Journal Highlights
 
 - ✨ [Why Automation Feels Like Magic](https://your-blog-link.com)
 - 📷 [The Philosophy Behind OASIS.graphy](https://your-blog-link.com)
-- 🤖 [Lessons from Building ChemWisper](https://your-blog-link.com)
+- 🤖 [What I Learned Building ChemWisper](https://your-blog-link.com)
 
 ---
 
-## 📡 Connect With Me
+### 📌 Pinned Projects with Descriptions
 
-- 🌐 Portfolio: https://sk4legends.github.io/The_K_Folio  
-- 💼 LinkedIn: https://www.linkedin.com/in/kailashselvarajan  
-- 📧 Email: mailto:kailashsekvarajan@gmail.com  
-- 📷 Instagram: https://www.instagram.com/sk4.legends  
+- 🧠 **ChemWisper Bot**  
+  > A powerful automation + NLP tool that explains chemical names using Gemini AI and saves it to Word — built with UiPath.
 
----
+- 🌍 **Multilingual KB Generator**  
+  > A UiPath automation that scrapes help docs, translates them into multiple languages via Gemini, and uploads to a CMS.
 
-## 🎧 Coding Soundtrack
+- 🌿 **OASIS.graphy**  
+  > A serene nature photography portfolio designed with a Nikon-inspired aesthetic and parallax gallery effects.
 
-> *“Coding is just music with logic — rhythm, patterns, and a little chaos.”*
-
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Coding%20Vibes-1ED760?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
-
----
-
-## 🧠 Fun Facts (Bonus Stage)
-
-- 🧘 Finds peace in clouds, silence, and slow moments  
-- 🎨 Believes automation should feel **beautiful**, not mechanical  
-- 🕹️ Gamer mindset, explorer soul  
-- 🧪 Built a real-world drone solution for environmental cleanup  
+- 🧪 **S.P.E.A.R. (Spill Emergency Aerial Response)**  
+  > Drone system for detecting and cleaning oil spills — uses queen and worker drone coordination with polymer dispersal.
 
 ---
 
-<p align="center">
-💾 Crafted with ❤️, automation logic, and 90’s nostalgia.
-</p>
+### 📫 How to Reach Me
+
+- 📸 Portfolio: [The-K-Folio](https://sk4legends.github.io/The_K_Folio)
+- 💼 LinkedIn: [Kailash Selvarajan](www.linkedin.com/in/kailashselvarajan)
+- 📧 Email: [Kailashselvarajan](mailto:kailashsekvarajan@gmail.com)
+- 📷 Instagram: [SK4LEGENDS](https://www.instagram.com/sk4.legends)
+
+---
+
+### 🎵 Vibes While Coding
+
+> “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
+
+[![Spotify Vibes](https://img.shields.io/badge/Spotify-Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+
+
+
+
+---
+
+### 🧠 Fun Facts About Me
+
+- 🧘 I find peace in silence and clouds, and I love capturing fleeting moments
+- 🎨 I believe **automation is an art**, not just engineering
+- 🕹️ Gamer at heart, explorer by soul
+- 🧪 I built a drone project called **S.P.E.A.R.** that detects oil spills and deploys cleaning agents
+x`
+---
+
+<p align="center">Crafted with ❤️, automation, and Nikon precision.</p>
