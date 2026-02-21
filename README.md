@@ -11,14 +11,38 @@
 
 ### ✨ Welcome to My GitHub Universe!
 
-Welcome to my little corner of the digital world! Whether it's automating tedious tasks, building full-stack web apps, or capturing the serenity of nature through a Nikon lens, I bring heart and precision to everything I do.
+Welcome to my little corner of the digital world — where **automation meets creativity**.  
+From building intelligent RPA solutions and full-stack applications to exploring AI-driven systems and capturing moments of calm through a Nikon lens, I bring **precision, curiosity, and heart** into everything I create.
 
 ---
 
-### 👨‍💻 Current Projects & Work
-- 🔄 **ChemWisper Bot** – Natural Language powered chemical explainer using UiPath + Gemini AI  
-- 🌐 **Multilingual Knowledge Base Generator** – Scraping + Translation + Uploading for global-ready documentation  
-- 🖼️ **OASIS.graphy** – My personal photography portfolio featuring nature in its most peaceful forms
+## 📌 Featured Projects
+
+- 👁️ **[Smart_Eye](https://github.com/sk4legends/Smart_Eye)**  
+  ![Status](https://img.shields.io/badge/Status-BETA-orange)  
+  AI-powered Smart Eye Care system with dual-model ensemble diagnostics, clinical dashboards, and a **RAG-powered medical assistant**.  
+  **Tech:** React · TypeScript · Python · Deep Learning · Next.js · Medical Imaging
+
+---
+
+- 🚚 **[SmartFleet-Automation](https://github.com/sk4legends/SmartFleet-Automation)**  
+  ![Status](https://img.shields.io/badge/Status-FINISHED-brightgreen)  
+  Intelligent **UiPath automation agent** that assigns drivers and vehicles based on route, traffic, weather, and database insights for real-time fleet optimization.  
+  **Tech:** UiPath · Automation · Databases · Decision Logic
+
+---
+
+- 🔁 **[H.Y.D.R.A – Hybrid Data Router & Adapter](https://github.com/sk4legends/H.Y.D.R.A-Hybrid-Data-Router-Adapter)**  
+  ![Status](https://img.shields.io/badge/Status-FINISHED-brightgreen)  
+  Bi-directional data migration system between **Excel and Supabase**, powered by UiPath automation workflows with seamless structured data synchronization.  
+  **Tech:** UiPath · Supabase · Data Migration · Automation
+
+---
+
+- 🧠 **[AURA – Advanced User Research AI](https://github.com/sk4legends/AURA-Advanced-User-Research-AI)**  
+  ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow)  
+  Privacy-first **RAG platform** that converts documents and URLs into a secure, searchable knowledge base using **local LLMs**, citations, and professional-grade visualizations.  
+  **Tech:** RAG · Local LLM · Privacy-First AI · Knowledge Systems
 
 ---
 
@@ -29,10 +53,8 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![TSX](https://img.shields.io/badge/-TSX-1E90FF?logo=react&logoColor=fff)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=FFD62E)
@@ -62,72 +84,38 @@ Welcome to my little corner of the digital world! Whether it's automating tediou
 ![IEEE YESIST Finalist](https://img.shields.io/badge/IEEE-YESIST%20Finalist-00629B?logo=ieee&logoColor=white)
 
 ---
-## 📚 Blog Posts / Journal Highlights
 
----
+### 📚 Blog Posts / Journal Highlights
 
-### 🚀 Igniting Young Minds with RPA
-> **Role:** Outreach Lead | Automation Evangelist  
-Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in future-ready skills.  
-🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
 
----
+- 🚀 **Igniting Young Minds with RPA**  
+  Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in automation and future-ready skills.  
+  🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
 
-### 🏅 Volunteering, Leadership & Giving Back
-> **Recognition:** Volunteer Certificate from Chairman  
-Recognized for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
-🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
+- 🏅 **Volunteering, Leadership & Giving Back**  
+  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
+  🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
 
----
+- 🏆 **Hack-A-Bot 2024: Innovation Under Pressure**  
+  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation — an intense journey of ideation, execution, and collaboration powered by UiPath.  
+  🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
 
-### 🏆 Hack-A-Bot 2024 — Innovation Under Pressure
-> **Achievement:** 🥈 2nd Place  
-Solved real-world challenges using automation in a high-pressure hackathon environment powered by UiPath — ideation, execution, and collaboration at scale.  
-🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
+- 💼 **First Industry Exposure — Virtusa Internship Journey**  
+  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa, embracing the values of passion, innovation, leadership, and respect while stepping into the professional world.  
+  🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
 
----
+- 🎓 **Student Developers Summit 2025 — From Planning to Legacy**  
+  Core team leadership and large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
+  🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
 
-### 💼 First Industry Exposure — Virtusa Internship Journey
-> **Role:** Associate Intern  
-A milestone marking my entry into the professional world at Virtusa, embracing passion, innovation, leadership, and respect while learning industry best practices.  
-🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
+- ⚡ **Cybertrix 2K25: Operations at Scale**  
+  Served as **Operations Director** for Cybertrix 2K25, achieving a record-breaking **1000+ participants** for the first time in the institute — a true test of leadership, logistics, and teamwork.  
+  🔗 https://www.linkedin.com/posts/kaviraj-r-922895342_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
 
----
+- 🌍 **Planetary Resilience — UK–India Collaborative Workshop**  
+  Volunteered as a Student Organizer (Secretary) for an international workshop on sustainability, energy transition, and resilience, bridging technology, research, and global collaboration.  
+  🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
 
-### 🎓 Student Developers Summit 2025 — From Planning to Legacy
-> **Role:** Core Team | Event Leadership  
-Led large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
-🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
-
----
-
-### ⚡ Cybertrix 2K25 — Operations at Scale
-> **Role:** Operations Director  
-Achieved a record-breaking **1000+ participants** for the first time in the institute — leadership, logistics, and execution under pressure.  
-🔗 https://www.linkedin.com/posts/kaviraj-r-922895342_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
-
----
-
-### 🌍 Planetary Resilience — UK–India Collaborative Workshop
-> **Role:** Student Organizer (Secretary)  
-Supported an international collaboration on sustainability, energy transition, and resilience — bridging technology, research, and global impact.  
-🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
-
----
-
-### 📌 Pinned Projects with Descriptions
-
-- 🧠 **ChemWisper Bot**  
-  > A powerful automation + NLP tool that explains chemical names using Gemini AI and saves it to Word — built with UiPath.
-
-- 🌍 **Multilingual KB Generator**  
-  > A UiPath automation that scrapes help docs, translates them into multiple languages via Gemini, and uploads to a CMS.
-
-- 🌿 **OASIS.graphy**  
-  > A serene nature photography portfolio designed with a Nikon-inspired aesthetic and parallax gallery effects.
-
-- 🧪 **S.P.E.A.R. (Spill Emergency Aerial Response)**  
-  > Drone system for detecting and cleaning oil spills — uses queen and worker drone coordination with polymer dispersal.
 
 ---
 
@@ -148,6 +136,15 @@ Supported an international collaboration on sustainability, energy transition, a
 
 
 
+
+---
+
+## 🤝 Leadership & Community
+
+- Student Support Specialist of the **RPA Society**, driving automation awareness and student-led initiatives
+- Organizer and **Operations Director** for large-scale technical events with **1000+ participants**
+- Student Organizer (Secretary) for **international workshops** on sustainability, energy transition, and research collaboration
+- Active contributor to the **UiPath Community**, UiPath Academy initiatives, and campus tech ecosystems
 
 ---
 
