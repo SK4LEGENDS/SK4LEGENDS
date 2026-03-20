@@ -1,6 +1,7 @@
-# Hey there! 👋 I'm Kailash
+<!-- GitHub Profile README for Kailash Selvarajan -->
 
-### aka the automation developer | tech explorer | photographer of calm 🌿📸
+<h1 align="center">Hey there! 👋 I'm Kailash</h1>
+<h3 align="center">aka the automation developer | tech explorer | photographer of calm 🌿📸</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=UiPath+Automation+Developer;Power+Automate+Learner;Nature+Photographer&center=true&width=500&height=65&&color=FF6700">
@@ -12,28 +13,6 @@
 
 Welcome to my little corner of the digital world — where **automation meets creativity**.  
 From building intelligent RPA solutions and full-stack applications to exploring AI-driven systems and capturing moments of calm through a Nikon lens, I bring **precision, curiosity, and heart** into everything I create.
-
----
-
-## 🛩️ My Contributions — Shot Down by a Plane
-
-> A fighter jet sweeps through my contribution graph and blasts every commit into pixels.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane.svg" />
-    <img alt="plane shooter contribution animation"
-      src="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane.svg" />
-  </picture>
-</p>
-
-<!--
-  Uses: https://github.com/YuriCosta/snake-game-github-profile  (plane variant of Platane/snk)
-  Workflow file: .github/workflows/plane.yml  (included in this repo)
--->
 
 ---
 
@@ -90,7 +69,7 @@ From building intelligent RPA solutions and full-stack applications to exploring
 
 ---
 
-## 🏅 Certifications / Badges
+🏅 Certifications / Badges
 
 ![UiPath Associate Developer Certified](https://img.shields.io/badge/UiPath-Associate%20Developer%20Certified-FF512F?logo=uipath&logoColor=white)
 ![UiPath Agentic Automation Associate](https://img.shields.io/badge/UiPath-Agentic%20Automation%20Associate-FF8C00?logo=uipath&logoColor=white)
@@ -104,50 +83,55 @@ From building intelligent RPA solutions and full-stack applications to exploring
 
 ### 📚 Blog Posts / Journal Highlights
 
+
 - 🚀 **Igniting Young Minds with RPA**  
-  Led an outreach program on RPA for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos.  
+  Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in automation and future-ready skills.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
 
 - 🏅 **Volunteering, Leadership & Giving Back**  
-  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society.  
+  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
 
 - 🏆 **Hack-A-Bot 2024: Innovation Under Pressure**  
-  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation.  
+  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation — an intense journey of ideation, execution, and collaboration powered by UiPath.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
 
 - 💼 **First Industry Exposure — Virtusa Internship Journey**  
-  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa.  
+  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa, embracing the values of passion, innovation, leadership, and respect while stepping into the professional world.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
 
 - 🎓 **Student Developers Summit 2025 — From Planning to Legacy**  
-  Core team leadership and large-scale coordination at SDS 2025, Chennai.  
+  Core team leadership and large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
 
 - ⚡ **Cybertrix 2K25: Operations at Scale**  
-  Served as **Operations Director** achieving a record-breaking **1000+ participants** for the first time.  
-  🔗 https://www.linkedin.com/posts/kailashselvarajan_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
+  Served as **Operations Director** for Cybertrix 2K25, achieving a record-breaking **1000+ participants** for the first time in the institute — a true test of leadership, logistics, and teamwork.  
+  🔗 https://www.linkedin.com/posts/kaviraj-r-922895342_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
 
 - 🌍 **Planetary Resilience — UK–India Collaborative Workshop**  
-  Volunteered as Student Organizer (Secretary) for an international sustainability workshop.  
+  Volunteered as a Student Organizer (Secretary) for an international workshop on sustainability, energy transition, and resilience, bridging technology, research, and global collaboration.  
   🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
+
 
 ---
 
 ### 📫 How to Reach Me
 
 - 📸 Portfolio: [The-K-Folio](https://sk4legends.github.io/The_K_Folio)
-- 💼 LinkedIn: [Kailash Selvarajan](https://www.linkedin.com/in/kailashselvarajan)
-- 📧 Email: [kailashselvarajan@gmail.com](mailto:kailashsekvarajan@gmail.com)
+- 💼 LinkedIn: [Kailash Selvarajan](www.linkedin.com/in/kailashselvarajan)
+- 📧 Email: [Kailashselvarajan](mailto:kailashsekvarajan@gmail.com)
 - 📷 Instagram: [SK4LEGENDS](https://www.instagram.com/sk4.legends)
 
 ---
 
 ### 🎵 Vibes While Coding
 
-> "Coding is like composing music — patterns, rhythms, and a bit of chaos." 🎶
+> “Coding is like composing music — patterns, rhythms, and a bit of chaos.” 🎶
 
 [![Spotify Vibes](https://img.shields.io/badge/Spotify-Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5iw2H1l1BcDhrvBNtresxc)
+
+
+
 
 ---
 
@@ -165,7 +149,7 @@ From building intelligent RPA solutions and full-stack applications to exploring
 - 🧘 I find peace in silence and clouds, and I love capturing fleeting moments
 - 🎨 I believe **automation is an art**, not just engineering
 - 🕹️ Gamer at heart, explorer by soul
-
+x`
 ---
 
 <p align="center">Crafted with ❤️, automation, and Nikon precision.</p>
