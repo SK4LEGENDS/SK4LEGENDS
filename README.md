@@ -15,60 +15,24 @@ From building intelligent RPA solutions and full-stack applications to exploring
 
 ---
 
-## 🕹️ My Contributions — As a Space Shooter
+## 🛩️ My Contributions — Shot Down by a Plane
 
-> Every green square on my contribution graph is an enemy. **Shoot them all.**
-
-<!--
-  CONTRIBUTION SHOOTER — powered by GitHub Actions + Snake Graph concept
-  Uses: https://github.com/Platane/snk  (generates the game GIF automatically from your real graph)
--->
+> A fighter jet sweeps through my contribution graph and blasts every commit into pixels.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sk4legends/sk4legends/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane.svg" />
+    <img alt="plane shooter contribution animation"
+      src="https://raw.githubusercontent.com/sk4legends/sk4legends/output/plane.svg" />
   </picture>
 </p>
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  HOW TO ACTIVATE THE GAME (one-time setup):                 ║
-  ║                                                              ║
-  ║  1. Create folder: .github/workflows/                        ║
-  ║  2. Add file: snake.yml  (content below)                     ║
-  ║  3. Push to GitHub — the Action runs daily & on push        ║
-  ║                                                              ║
-  ║  ── snake.yml content ────────────────────────────────────── ║
-  ║                                                              ║
-  ║  name: Generate Snake                                        ║
-  ║  on:                                                         ║
-  ║    schedule:                                                 ║
-  ║      - cron: "0 */12 * * *"                                  ║
-  ║    workflow_dispatch:                                        ║
-  ║    push:                                                     ║
-  ║      branches: [main]                                        ║
-  ║  jobs:                                                       ║
-  ║    generate:                                                 ║
-  ║      runs-on: ubuntu-latest                                  ║
-  ║      steps:                                                  ║
-  ║        - uses: Platane/snk@v3                                ║
-  ║          with:                                               ║
-  ║            github_user_name: sk4legends                      ║
-  ║            outputs: |                                        ║
-  ║              dist/github-contribution-grid-snake.svg        ║
-  ║              dist/github-contribution-grid-snake-dark.svg   ║
-  ║                    github_user_name: sk4legends              ║
-  ║                    color_snake: '#39d353'                    ║
-  ║                    color_dots: '#0d1117,#0e4429,#006d32'     ║
-  ║        - uses: crazy-max/ghaction-github-pages@v3            ║
-  ║          with:                                               ║
-  ║            target_branch: output                             ║
-  ║            build_dir: dist                                   ║
-  ║          env:                                                ║
-  ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        ║
-  ╚══════════════════════════════════════════════════════════════╝
+<!--
+  Uses: https://github.com/YuriCosta/snake-game-github-profile  (plane variant of Platane/snk)
+  Workflow file: .github/workflows/plane.yml  (included in this repo)
 -->
 
 ---
@@ -141,31 +105,31 @@ From building intelligent RPA solutions and full-stack applications to exploring
 ### 📚 Blog Posts / Journal Highlights
 
 - 🚀 **Igniting Young Minds with RPA**  
-  Led an outreach program on Robotic Process Automation (RPA) for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos to spark early interest in automation and future-ready skills.  
+  Led an outreach program on RPA for 12th-grade students, introducing UiPath, real-world automation use cases, and live demos.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_automation-uipath-automation-activity-7199775387088805889
 
 - 🏅 **Volunteering, Leadership & Giving Back**  
-  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society — a reflection of teamwork, service, and commitment to creating impact beyond classrooms.  
+  Honored with a Volunteer Certificate from the Chairman for contributions through the RPA Society.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_volunteering-gratitude-leadership-activity-7293976249473843200
 
 - 🏆 **Hack-A-Bot 2024: Innovation Under Pressure**  
-  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation — an intense journey of ideation, execution, and collaboration powered by UiPath.  
+  Secured **2nd Place** at Hack-A-Bot 2024 by solving real-world challenges using automation.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_hackabot2024-innovation-teamwork-activity-7293980173509476353
 
 - 💼 **First Industry Exposure — Virtusa Internship Journey**  
-  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa, embracing the values of passion, innovation, leadership, and respect while stepping into the professional world.  
+  A reflective milestone marking the beginning of my Associate Intern journey at Virtusa.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_throwback-virtusa-associateintern-activity-7334589200912064512
 
 - 🎓 **Student Developers Summit 2025 — From Planning to Legacy**  
-  Core team leadership and large-scale coordination at SDS 2025, Chennai — transforming an idea into a high-impact summit through collaboration, strategy, and execution.  
+  Core team leadership and large-scale coordination at SDS 2025, Chennai.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_studentdeveloperssummit2025-chennaievents-activity-7359973183870947328
 
 - ⚡ **Cybertrix 2K25: Operations at Scale**  
-  Served as **Operations Director** for Cybertrix 2K25, achieving a record-breaking **1000+ participants** for the first time in the institute — a true test of leadership, logistics, and teamwork.  
+  Served as **Operations Director** achieving a record-breaking **1000+ participants** for the first time.  
   🔗 https://www.linkedin.com/posts/kailashselvarajan_cybertrix2025-cse-techsymposium-ugcPost-7373727410472644608
 
 - 🌍 **Planetary Resilience — UK–India Collaborative Workshop**  
-  Volunteered as a Student Organizer (Secretary) for an international workshop on sustainability, energy transition, and resilience, bridging technology, research, and global collaboration.  
+  Volunteered as Student Organizer (Secretary) for an international sustainability workshop.  
   🔗 https://www.linkedin.com/posts/gunapriya-r-006b09259_planetaryresilience-sustainability-energy-ugcPost-7388962119318302720
 
 ---
